@@ -27,11 +27,12 @@
 
 
   ## Screenshots
-![workout 1](https://user-images.githubusercontent.com/65136237/137431748-98e972c2-2965-4382-9c28-59252b2a0d46.PNG)
 
-![wokout 2](https://user-images.githubusercontent.com/65136237/137431755-0bd51a09-b9b5-4948-8868-016ef192e2b0.PNG)
+![budget 1](https://user-images.githubusercontent.com/65136237/137431836-ecbc6a7a-4bb4-4c68-b821-053b260c30ff.PNG)
 
-![workout 3](https://user-images.githubusercontent.com/65136237/137431762-fb0fd340-b298-4bb1-98aa-09eb9a76d791.PNG)
+![budget tracker 1](https://user-images.githubusercontent.com/65136237/137431845-1d19cabd-c5ac-445a-b48a-463c2eb9a2d7.PNG)
+
+![budget tracker 3](https://user-images.githubusercontent.com/65136237/137431851-8d8f11b3-b1a1-418a-801e-aaa993f49e4f.PNG)
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
