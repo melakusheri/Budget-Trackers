@@ -28,7 +28,8 @@
 
   ## Screenshots
 
-![budget 1](https://user-images.githubusercontent.com/65136237/137431836-ecbc6a7a-4bb4-4c68-b821-053b260c30ff.PNG)
+![budget tracker 1](https://user-images.githubusercontent.com/65136237/137431913-cd29b435-ce7c-4953-86bd-6cbfee36a334.PNG)
+
 
 ![budget tracker 1](https://user-images.githubusercontent.com/65136237/137431845-1d19cabd-c5ac-445a-b48a-463c2eb9a2d7.PNG)
 
