@@ -30,8 +30,7 @@
 
 ![budget tracker 1](https://user-images.githubusercontent.com/65136237/137431913-cd29b435-ce7c-4953-86bd-6cbfee36a334.PNG)
 
-
-![budget tracker 1](https://user-images.githubusercontent.com/65136237/137431845-1d19cabd-c5ac-445a-b48a-463c2eb9a2d7.PNG)
+![budget tracker 2](https://user-images.githubusercontent.com/65136237/137432046-52b14d10-40fb-44eb-ab9d-825cca887063.PNG)
 
 ![budget tracker 3](https://user-images.githubusercontent.com/65136237/137431851-8d8f11b3-b1a1-418a-801e-aaa993f49e4f.PNG)
 
