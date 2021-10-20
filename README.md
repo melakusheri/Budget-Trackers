@@ -25,7 +25,6 @@
   ## Deployed Links
    https://mysterious-oasis-22535.herokuapp.com/
 
-
   ## Screenshots
 
 ![budget tracker 1](https://user-images.githubusercontent.com/65136237/137431913-cd29b435-ce7c-4953-86bd-6cbfee36a334.PNG)
