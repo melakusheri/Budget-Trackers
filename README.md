@@ -18,7 +18,6 @@
   ## Description
   This app is able us to track our withdrawals and deposits with or without a data/internet connection, So that our account balance is accurate when we are traveling, internet connection interruption or slow connection.
 
-
   ## Installation and Technology used
   Only `NPM install` is required at local.
   `MongoDB Atlas`, `mongodb`, `indexDB`, `cach`, and `heroku` for deploy.
